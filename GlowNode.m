@@ -15,6 +15,7 @@
     CCSprite *_topPart;
 }
 
+// Using max blending
 -(void)draw:(CCRenderer *)renderer transform:(const GLKMatrix4 *)transform
 {
     [renderer enqueueBlock:^{
