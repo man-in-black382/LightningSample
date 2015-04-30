@@ -38,4 +38,4 @@ Screenshots
 -----------
 
 For the sake of performance in simulator, water node is small
-![Alt text](/Screenshots/Water_main_screenshot.png?raw=true "Screenshot")
+![Alt text](/Screenshots/Lightning.png?raw=true "Screenshot")
