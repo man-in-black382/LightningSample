@@ -8,7 +8,7 @@ I'm using this node as glow texture. Corresponding class in XCode is "GlowNode".
 
 IDLightningNode class does the main job. 
 
-Not much of a discription here, it still has problems, which i intend to fix, but now now. 
+Not much of a discription here, it still has problems, which i intend to fix, but not now. 
 
 Problems
 -----------
@@ -24,7 +24,7 @@ This is the simple part :)
 Create and add the lightning node to your scene:
 ```
 _lightning = [IDLightningNode node];
-    [self addChild:_lightning];
+[self addChild:_lightning];
 ```
 
 Create an array of positions (at least 2 positions) and pass it to animate method:
