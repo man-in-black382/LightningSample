@@ -37,5 +37,4 @@ For more details see the sample project.
 Screenshots
 -----------
 
-For the sake of performance in simulator, water node is small
 ![Alt text](/Screenshots/Lightning.png?raw=true "Screenshot")
